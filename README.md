@@ -76,6 +76,9 @@ Stockmarket-Forecasting-App-Prophet-Streamlit/
 ├── *.ipynb                   # Google Colab notebook (development & testing)
 ├── README.md                 # Project documentation
 └── assets/ (optional)        # Screenshots or visuals
+
+---
+
 🚀 How to Run Locally
 pip install streamlit yfinance prophet plotly cufflinks
 streamlit run app.py
