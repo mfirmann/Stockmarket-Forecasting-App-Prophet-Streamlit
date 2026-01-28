@@ -91,21 +91,29 @@ Note: During development, this project was deployed temporarily using Ngrok on G
 ---
 
 ## 🔍 Insights & Limitations
+
 ✅ Strengths
--End-to-end data workflow (data ingestion → modeling → web app)
--Clean integration between Prophet and Streamlit
--Suitable for exploratory time series forecasting
+
+*End-to-end data workflow (data ingestion → modeling → web app)
+*Clean integration between Prophet and Streamlit
+*Suitable for exploratory time series forecasting
 ---
 ⚠️ Limitations
--Forecasts are not intended for financial or investment advice
--Prophet assumes trend continuity and may underperform in highly volatile markets
--Deployment setup is not production-grade (demo / experimental only)
----
-📌 Author
-Maulana Firman Nurdiansyah
-Data Analyst | Data Enthusiast
 
-📫 LinkedIn: [()](https://www.linkedin.com/in/m-firman-n/)
-📁 GitHub: (this repository)
+*Forecasts are not intended for financial or investment advice
+*Prophet assumes trend continuity and may underperform in highly volatile markets
+*Deployment setup is not production-grade (demo / experimental only)
+---
+---
+
+## 📬 Contact
+
+**Maulana Firman Nurdiansyah**
+Data Analyst & Business Intelligent | Mathematics Graduate | TensorFlow Certified | Ex-Retail Entrepreneur
+
+* 💼 LinkedIn: https://www.linkedin.com/in/m-firman-n/
+* ✉️ Email: m.firman.n000@gmail.com
+
+---
 
 This project is part of a personal portfolio and reflects skills developed during an internship period.
