@@ -79,33 +79,32 @@ Stockmarket-Forecasting-App-Prophet-Streamlit/
 
 ---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
+
+Install all required dependencies:
+
 pip install streamlit yfinance prophet plotly cufflinks
 streamlit run app.py
 Note: During development, this project was deployed temporarily using Ngrok on Google Colab.
 
-🔍 Insights & Limitations
-Strengths
+---
 
-End-to-end data workflow (data → model → app)
-
-Clean integration between Prophet and Streamlit
-
-Useful for exploratory forecasting
-
-Limitations
-
-Forecasts are not intended for financial advice
-
-Prophet assumes trend continuity and may underperform in highly volatile markets
-
-Deployment is not production-grade (demo purposes only)
-
+## 🔍 Insights & Limitations
+✅ Strengths
+-End-to-end data workflow (data ingestion → modeling → web app)
+-Clean integration between Prophet and Streamlit
+-Suitable for exploratory time series forecasting
+---
+⚠️ Limitations
+-Forecasts are not intended for financial or investment advice
+-Prophet assumes trend continuity and may underperform in highly volatile markets
+-Deployment setup is not production-grade (demo / experimental only)
+---
 📌 Author
 Maulana Firman Nurdiansyah
 Data Analyst | Data Enthusiast
 
-📫 LinkedIn: (add your LinkedIn link here)
+📫 LinkedIn: [()](https://www.linkedin.com/in/m-firman-n/)
 📁 GitHub: (this repository)
 
 This project is part of a personal portfolio and reflects skills developed during an internship period.
