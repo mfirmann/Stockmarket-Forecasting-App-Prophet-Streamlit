@@ -90,20 +90,23 @@ Note: During development, this project was deployed temporarily using Ngrok on G
 
 ---
 
-## 🔍 Insights & Limitations
+### 🔍 Insights & Limitations
 
-✅ Strengths
+---
+
+## ✅ Strengths
 
 *End-to-end data workflow (data ingestion → modeling → web app)
 *Clean integration between Prophet and Streamlit
 *Suitable for exploratory time series forecasting
 ---
-⚠️ Limitations
+
+## ⚠️ Limitations
 
 *Forecasts are not intended for financial or investment advice
 *Prophet assumes trend continuity and may underperform in highly volatile markets
 *Deployment setup is not production-grade (demo / experimental only)
----
+
 ---
 
 ## 📬 Contact
